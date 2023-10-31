@@ -1,15 +1,9 @@
-Welcome to your new dbt project!
+Welcome to Techup!
 
-### Using the starter project
+This repo is intended to be linked to your DBT Cloud account for the purpose of the Techup24 Retail Industry HOL. 
+  The full demo can be found [here](https://github.com/snowflakecorp/frostbytes/tree/main/Tasty%20Bytes/30%20-%20vignettes/Use-Cases/Inventory%20Optimization/3%20-%20Inventory%20Forecast).
+The following elements are not within this repo but are required to execute the HOL. 
 
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](http://community.getbdt.com/) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+1. SQL Script
+2. Jupyter Notebook File
+3. Sigma Login Link
