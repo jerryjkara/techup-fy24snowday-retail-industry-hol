@@ -7,3 +7,6 @@ The following elements are not within this repo but are required to execute the 
 1. SQL Script
 2. Jupyter Notebook File
 3. Sigma Login Link
+
+
+Please find the Deck [here](https://docs.google.com/presentation/d/1OTv0dyukykXQe6QunYWVVXXCZ096lyQyK7YobDT0CfE/edit?usp=sharing)
